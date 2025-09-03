@@ -1,5 +1,10 @@
 # 🍽️ NutriNet: Multimodal Meal Nutrition Analysis  
 
+[![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/)  
+[![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red.svg)](https://pytorch.org/)  
+[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/)  
+[![Kaggle](https://img.shields.io/badge/Kaggle-Competition-success.svg)](https://www.kaggle.com/)  
+
 > A multimodal deep learning framework for estimating meal caloric content using **Continuous Glucose Monitoring (CGM)**, **demographic & microbiome data**, and **meal images**.  
 > Developed as part of **CSCE 633: Machine Learning** at Texas A&M University (Spring 2025).  
 
